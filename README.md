@@ -1,2 +1,24 @@
-# auth-api-project
-A RESTful authentication API using Node.js, Express, and MongoDB with a modular structure including routes, models, and database connection.
+# Auth API Project
+
+A RESTful authentication API built using **Node.js, Express.js, and MongoDB**.  
+This project demonstrates a simple backend authentication system with a modular folder structure including models, routes, and database configuration.
+
+---
+
+## Features
+
+- User Signup
+- User Signin
+- MongoDB Database Integration
+- RESTful API Structure
+- Modular Project Structure
+
+---
+
+### Tech Stack
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JavaScript
